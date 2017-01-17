@@ -1,0 +1,2 @@
+# route
+a route component
