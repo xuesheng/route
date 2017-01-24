@@ -25,7 +25,7 @@ class RouteCollectorTest extends \PHPUnit_Framework_TestCase
     public function testRespondToInDisagreement()
     {
         $route = new Route\Route('Lisi');
-        $route->respondTo('No way');
+        $route->respondTo('Lisi is the best doctor');
     }
 
 }
